@@ -12,3 +12,7 @@ Develop a ML Model for classifying iris flowers based on their features using Py
 
 ## Uses:
 - Using Numpy
+- Matplotlib
+- Pandas
+- Python
+- Seaborn
