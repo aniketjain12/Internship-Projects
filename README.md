@@ -2,7 +2,7 @@
 ## Bharat Intern (Internship)
 Machine learning Internship
 ## Project 
--House Price Prediction 
+- House Price Prediction 
 - Movie Recommendations
 
 
